@@ -46,6 +46,7 @@ FRONTEND
 Step 1: Setup the Frontend code provided in VS Code with React version 19.
 
 Step 2: Install all the dependencies with same versions : 
+npm install
 npm install @reduxjs/toolkit react-redux react-router-dom axios bootstrap react-bootstrap
 npm install formik yup react-icons react-toastify chart.js react-chartjs-2
 
