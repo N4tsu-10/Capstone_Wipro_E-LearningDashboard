@@ -14,6 +14,7 @@ Step 3: Run query2.sql.
 Step 4: Run query3.sql.
 
 
+
 BACKEND
 
 Step 1: Setup the Backend code provided in VS Code as I have done it in VS Code only. Use ASP.Net Core Web API with .net version 8.
@@ -46,8 +47,11 @@ FRONTEND
 Step 1: Setup the Frontend code provided in VS Code with React version 19.
 
 Step 2: Install all the dependencies with same versions : 
+
 npm install
+
 npm install @reduxjs/toolkit react-redux react-router-dom axios bootstrap react-bootstrap
+
 npm install formik yup react-icons react-toastify chart.js react-chartjs-2
 
 Step 3: FrontEnd is ALL SET!!
